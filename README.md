@@ -5,7 +5,7 @@
 A stylish, multi-page front-end for a modern e-commerce platform. Built entirely with HTML and CSS, this project highlights product cards, banners, and clean layouts that adapt to all screen sizes.
 
 ## 🚀 Live Demo
-👉 [View Live]([https://shaqran92.github.io/E-Commerce-Website/])
+👉 [View Live](https://shaqran92.github.io/E-Commerce-Website/)
 
 ## 💡 Features
 - Homepage with hero banner and featured products
